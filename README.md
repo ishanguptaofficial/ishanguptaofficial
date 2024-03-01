@@ -84,31 +84,27 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
   
 </td></tr></table> -->
 
+<!-- 
 <br />
 
 ## 📕 Latest Blog Posts
 
 ### Blog Posts Hashnode
-<!-- HASHNODE:START -->
 - [Develop Interview-Winning Portfolio Projects with MindsDB Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions)
-<!-- HASHNODE:END -->
 
 ... [Read more articles on Hashnode](https://yuridevat.hashnode.dev/)
 
 ### Blog Posts Dev Community
-<!-- DEV:START -->
 - [How to create cool color contrast widgets design](https://dev.to/yuridevat/how-to-create-cool-color-contrast-widgets-design-57a)
 - [HTML can do this? Part 2](https://dev.to/yuridevat/text-modifications-with-plain-html-4nmc)
 - [Best of 2023 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2023-recap-of-my-blog-posts-57kl)
 - [Responsibilities of a Code of Conduct Responder](https://dev.to/yuridevat/responsibilities-of-a-code-of-conduct-responder-1n1f)
 - [How accessible are Google Tools?](https://dev.to/yuridevat/how-accessible-are-google-tools-1fd9)
-<!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)
 
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
-
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td valign="top" width="100%">
       <h2 align="center">My favorite projects 💻</h2>
