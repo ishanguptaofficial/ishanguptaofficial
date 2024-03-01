@@ -88,12 +88,12 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
--->
-    <!--
-<table><tr><td valign="top">
--->
-    ## 💼 Languages and Tools
 
+<table>
+    <tr>
+        <td valign="top">
+<!--     ## 💼 Languages and Tools
+ -->
     <br />
     <div>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -105,7 +105,6 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <!-- <img src="https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge&logo=integration&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -115,61 +114,6 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
         <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </div>
-      
-
-    <!--
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
--->
-    <!--
-</td>-->
-    <!-- <td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
-  
-</td></tr></table> -->
-
-    <!-- 
-<br />
-
-## 📕 Latest Blog Posts
-
-### Blog Posts Hashnode
-- [Develop Interview-Winning Portfolio Projects with MindsDB Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions)
-
-... [Read more articles on Hashnode](https://yuridevat.hashnode.dev/)
-
-### Blog Posts Dev Community
-- [How to create cool color contrast widgets design](https://dev.to/yuridevat/how-to-create-cool-color-contrast-widgets-design-57a)
-- [HTML can do this? Part 2](https://dev.to/yuridevat/text-modifications-with-plain-html-4nmc)
-- [Best of 2023 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2023-recap-of-my-blog-posts-57kl)
-- [Responsibilities of a Code of Conduct Responder](https://dev.to/yuridevat/responsibilities-of-a-code-of-conduct-responder-1n1f)
-- [How accessible are Google Tools?](https://dev.to/yuridevat/how-accessible-are-google-tools-1fd9)
-
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
-
-I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
-<table align="center">
-  <tr>
-    <td valign="top" width="100%">
-      <h2 align="center">My favorite projects 💻</h2>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" halign="center" width="100%">
-      <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-       <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
-     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/YuriDevAT/sos-animals">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-      </a>
-      <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-      </a>  
-    </td>
-  </tr>
-</table> -->
+</tr>
+</table>
